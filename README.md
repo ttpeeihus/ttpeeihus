@@ -2,3 +2,6 @@
 - 🌱 Currently I am studying at VNU
 - 📫 How to contact me: ttpeeihus@gmail.com
 <img src="https://octodex.github.com/images/megacat-2.png" height="250" width="250"/>
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@TrongPhuoc/30-nites-of-code)  
+  ![@TrongPhuoc #30NitesOfCode](https://www.codedex.io/api/petStatus?user=TrongPhuoc)
